@@ -2,6 +2,11 @@ h1. A Small Android app for testing error handling
 
 h2. Author: Maksim Lin
 
+h2. Usage
+
+Build the app (Eclipse project file included) and then run it on a device or emulator.
+Watch logcat for relevant error messages.
+
 h2. License
 
 Copyright (c) 2012, Square Circle Triangle (http://www.sct.com.au)
