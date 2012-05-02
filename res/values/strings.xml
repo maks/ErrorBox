@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="hello">Hello World, ErrorBoxActivity!</string>
+    <string name="hello">Lets try some errors!</string>
     <string name="app_name">ErrorBox</string>
     <string name="err_button">Make Error!</string>
+    <string name="use_errorhandler">Use Error Handler</string>
 
 </resources>
